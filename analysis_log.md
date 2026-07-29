@@ -1,7 +1,3 @@
-根据 notebook 的最新运行结果，以下是更新后的分析日志：
-
----
-
 # 分析日志：00_anndata_smoke_test.ipynb
 
 **项目**：AnnData 对象基础操作 Smoke Test  
