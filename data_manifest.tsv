@@ -1,2 +1,2 @@
 dataset	source_url	accession	download_date	file_name	size_bytes	sha256	license	用途
-3k PBMCs from 10x Genomics	https://www.10xgenomics.com/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-0-0	—	2026-07-28	pbmc3k_raw.h5ad	21547812	0a485d8cd25151db0d6c24d4e051372b4ceba32fb409dd112754aac1f40bb2c0	CC BY 4.0	原始 count 矩阵，作为全流程输入
+pbmc3k	https://www.10xgenomics.com/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-0-0	—	2026-07-28	pbmc3k_raw.h5ad	21547812	0a485d8cd25151db0d6c24d4e051372b4ceba32fb409dd112754aac1f40bb2c0	CC BY 4.0	原始 count 矩阵，作为全流程输入
