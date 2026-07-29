@@ -1,5 +1,2 @@
 dataset	source_url	accession	download_date	file_name	size_bytes	sha256	license	用途
-PBMC 3k (10x Genomics)	https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/pbmc3k	—	2026-07-28	pbmc3k_raw.h5ad	21547812	0a485d8cd25151db0d6c24d4e051372b4ceba32fb409dd112754aac1f40bb2c0	10x Genomics Data Use Terms	原始 count 矩阵，作为全流程输入
-PBMC 3k subset (top100 by total_counts)	derived from pbmc3k_raw.h5ad	—	2026-07-28	pbmc3k_100cells.h5ad	19066614	74dcd05492650af1043be7bd3d3dabe768f17b0b9a8a11b77b56ccd2f23970e5	同上游	AnnData 操作 smoke test 验证用子集
-PBMC_3k	https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz	GSE87392	2026-07-29	pbmc3k_filtered_gene_bc_matrices.tar.gz	7621991	847d6ebd9a1ec9a768f2be7e40ca42cbfe75ebeb6d76a4c24167041699dc28b5	CC-BY-4.0	质控流程演示
-Tabula_Muris	https://figshare.com/ndownloader/files/25717328	GSE109774	2026-07-29	25717328	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	CC-BY-4.0	整合分析参考
+3k PBMCs from 10x Genomics	https://www.10xgenomics.com/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-0-0	—	2026-07-28	pbmc3k_raw.h5ad	21547812	0a485d8cd25151db0d6c24d4e051372b4ceba32fb409dd112754aac1f40bb2c0	10x Genomics Data Use Terms	原始 count 矩阵，作为全流程输入
