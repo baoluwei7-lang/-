@@ -1,0 +1,110 @@
+tissue,cell_type,n_mice,n_cells
+fat,mesenchymal stem cell of adipose,6,1893
+fat,myeloid cell,6,1871
+fat,endothelial cell,6,1475
+fat,B cell,6,683
+fat,T cell,6,563
+fat,epithelial cell,6,145
+fat,erythroblast,6,92
+fat,lymphocyte,3,55
+heart_and_aorta,endothelial cell of coronary artery,11,3293
+heart_and_aorta,fibroblast of cardiac tissue,11,2409
+heart_and_aorta,leukocyte,11,950
+heart_and_aorta,endocardial cell,11,678
+heart_and_aorta,smooth muscle cell,11,436
+heart_and_aorta,erythrocyte,11,356
+heart_and_aorta,cardiomyocyte,10,334
+heart_and_aorta,cardiac neuron,9,81
+heart_and_aorta,mast cell,4,76
+kidney,kidney proximal convoluted tubule epithelial cell,14,4460
+kidney,B cell,16,3124
+kidney,epithelial cell of proximal tubule,14,3053
+kidney,kidney loop of Henle thick ascending limb epithelial cell,14,1554
+kidney,lymphocyte,16,1536
+kidney,macrophage,16,1407
+kidney,T cell,16,1359
+kidney,fenestrated cell,14,1027
+kidney,kidney collecting duct principal cell,14,789
+kidney,kidney distal convoluted tubule epithelial cell,14,744
+kidney,podocyte,14,496
+kidney,brush cell,14,414
+kidney,kidney cortex artery cell,14,381
+kidney,plasma cell,11,325
+kidney,kidney mesangial cell,14,261
+kidney,kidney loop of Henle ascending limb epithelial cell,14,201
+kidney,fibroblast,14,161
+kidney,kidney capillary endothelial cell,12,161
+kidney,kidney proximal straight tubule epithelial cell,3,95
+kidney,NK cell,13,66
+kidney,kidney collecting duct epithelial cell,3,25
+kidney,leukocyte,3,5
+kidney,kidney cell,1,3
+liver,hepatocyte,11,2929
+liver,Kupffer cell,10,2546
+liver,endothelial cell of hepatic sinusoid,12,675
+liver,NK cell,9,552
+liver,myeloid leukocyte,8,307
+liver,B cell,8,203
+liver,plasmacytoid dendritic cell,7,41
+liver,hepatic stellate cell,7,39
+liver,duct epithelial cell,1,2
+lung,classical monocyte,16,7922
+lung,bronchial smooth muscle cell,16,2339
+lung,intermediate monocyte,14,1749
+lung,fibroblast of lung,15,1523
+lung,B cell,16,1501
+lung,alveolar macrophage,16,1366
+lung,NK cell,16,1193
+lung,lung macrophage,13,1157
+lung,non-classical monocyte,15,1010
+lung,"CD8-positive, alpha-beta T cell",14,870
+lung,neutrophil,14,552
+lung,"CD4-positive, alpha-beta T cell",15,551
+lung,adventitial cell,16,526
+lung,mature NK T cell,13,420
+lung,vein endothelial cell,14,320
+lung,T cell,15,251
+lung,myeloid dendritic cell,16,245
+lung,pulmonary interstitial fibroblast,12,222
+lung,basophil,16,130
+lung,type II pneumocyte,14,125
+lung,regulatory T cell,14,123
+lung,smooth muscle cell of the pulmonary artery,13,98
+lung,plasmacytoid dendritic cell,13,75
+lung,pericyte cell,14,61
+lung,ciliated columnar cell of tracheobronchial tree,12,57
+lung,plasma cell,11,49
+lung,dendritic cell,13,45
+lung,endothelial cell of lymphatic vessel,12,41
+lung,club cell of bronchiole,10,15
+lung,lung neuroendocrine cell,2,4
+marrow,granulocyte,17,11056
+marrow,granulocytopoietic cell,17,7599
+marrow,proerythroblast,17,3613
+marrow,promonocyte,17,2827
+marrow,monocyte,17,2393
+marrow,erythroblast,17,2360
+marrow,hematopoietic precursor cell,17,2144
+marrow,megakaryocyte-erythroid progenitor cell,17,1874
+marrow,naive T cell,17,1568
+marrow,macrophage,17,988
+marrow,precursor B cell,17,915
+marrow,immature B cell,17,826
+marrow,late pro-B cell,16,532
+marrow,plasma cell,16,445
+marrow,erythroid progenitor,7,409
+marrow,naive B cell,17,398
+marrow,NK cell,16,149
+marrow,basophil,12,124
+spleen,B cell,13,22066
+spleen,T cell,13,4707
+spleen,mature NK T cell,13,2542
+spleen,macrophage,13,1428
+spleen,granulocyte,12,1155
+spleen,proerythroblast,13,957
+spleen,megakaryocyte-erythroid progenitor cell,11,838
+spleen,plasma cell,13,802
+spleen,NK cell,13,525
+spleen,erythroblast,11,466
+spleen,macrophage dendritic cell progenitor,13,148
+spleen,immature NKT cell,13,84
