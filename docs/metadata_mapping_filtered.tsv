@@ -1,0 +1,8 @@
+standard_field	original_column	location	description	notes
+mouse_id	mouse.id	obs	独立小鼠个体编号，统计重复单位	不可用细胞barcode代替；缺少则不可用于样本级统计
+age_months	age	obs	小鼠月龄（数值型）	需后续建立 age_group (young/middle/old)
+sex	sex	obs	性别 (male/female)	pseudobulk模型中作为协变量
+tissue	tissue	obs	组织来源（spleen/marrow已合并）	6个组织: fat/liver/lung/kidney/heart_and_aorta/spleen_marrow
+cell_type	cell_ontology_class	obs	细胞类型注释（仅内皮/巨噬单核/成纤维基质）	仅保留内皮/巨噬单核/成纤维基质三大类
+assay	method	obs	测序技术/方法 (如 10x Chromium)	可能与年龄混杂，模型中需作为批次协变量
+counts	.raw.X → 已转为 .X	.X (AnnData主矩阵)	原始整数表达矩阵 (UMI counts)	原始.X为log-normalized，已从.raw.X提取并覆盖保存

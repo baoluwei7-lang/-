@@ -1,0 +1,29 @@
+tissue,cell_type,n_mice,n_cells
+Fat,mesenchymal stem cell of adipose,6,1893
+Fat,endothelial cell,6,1475
+Heart_and_Aorta,endothelial cell of coronary artery,11,3293
+Heart_and_Aorta,fibroblast of cardiac tissue,11,2409
+Heart_and_Aorta,smooth muscle cell,11,436
+Kidney,macrophage,16,1407
+Kidney,fibroblast,14,161
+Kidney,kidney capillary endothelial cell,12,161
+Liver,Kupffer cell,10,2546
+Liver,endothelial cell of hepatic sinusoid,12,675
+Liver,hepatic stellate cell,7,39
+Lung,classical monocyte,16,7922
+Lung,bronchial smooth muscle cell,16,2339
+Lung,intermediate monocyte,14,1749
+Lung,fibroblast of lung,15,1523
+Lung,alveolar macrophage,16,1366
+Lung,lung macrophage,13,1157
+Lung,non-classical monocyte,15,1010
+Lung,adventitial cell,16,526
+Lung,vein endothelial cell,14,320
+Lung,pulmonary interstitial fibroblast,12,222
+Lung,smooth muscle cell of the pulmonary artery,13,98
+Lung,pericyte cell,14,61
+Lung,endothelial cell of lymphatic vessel,12,41
+spleen/marrow,promonocyte,17,2827
+spleen/marrow,macrophage,19,2416
+spleen/marrow,monocyte,17,2393
+spleen/marrow,macrophage dendritic cell progenitor,13,148
