@@ -1,0 +1,2 @@
+count_source	min_value	max_value	negative_values	nan_values	integer_like
+adata.X	1.0	10959.0	0	0	True
