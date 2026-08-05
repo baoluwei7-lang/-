@@ -1,0 +1,22 @@
+{
+    "class": "GalaxyWorkflow",
+    "name": "01_QC_scanpy_v1",
+    "steps": {
+        "0": {
+            "type": "input",
+            "name": "AnnData h5ad"
+        },
+        "1": {
+            "type": "scanpy_calculate_qc",
+            "name": "calculate n_genes total_counts mt ribo"
+        },
+        "2": {
+            "type": "filter_cells",
+            "name": "n_genes 200-6000 and mt<=15%"
+        },
+        "3": {
+            "type": "normalize",
+            "name": "log normalization"
+        }
+    }
+}
