@@ -1,6 +1,6 @@
 field	dtype	n_unique	missing_count
 age	category	6	0
-cell	str	7784	0
+cell	object	7784	0
 cell_ontology_class	category	4	0
 cell_ontology_id	category	9	0
 free_annotation	category	2	0
@@ -19,4 +19,4 @@ tissue_std	category	1	0
 cell_type_original	category	4	0
 age_months	float64	6	0
 age_group	category	3	0
-cell_id	str	7784	0
+cell_id	object	7784	0

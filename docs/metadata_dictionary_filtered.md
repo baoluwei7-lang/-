@@ -1,7 +1,7 @@
 # 数据字典 (Metadata Dictionary)
 
 > **数据来源**: Tabula Muris Senis (TMS) - Droplet
-> **生成时间**: 2026-08-04 14:31
+> **生成时间**: 2026-08-05 16:05
 > **组织数量**: 6
 > **Counts来源**: `.raw.X`（原始 `.X` 为 log-normalized）
 
