@@ -1,0 +1,7 @@
+tissue	n_genes_min	n_genes_max	pct_mt_max	method	reason
+Fat	477.5	4401.5	0.0	initial n_genes 200-6000 + median+3MAD adjustment	Threshold adjusted according to tissue-specific QC distribution; mitochondrial cutoff constrained by <=15%
+spleen/marrow	405.0	4896.0	0.0	initial n_genes 200-6000 + median+3MAD adjustment	Threshold adjusted according to tissue-specific QC distribution; mitochondrial cutoff constrained by <=15%
+Heart_and_Aorta	624.0	3858.0	0.0	initial n_genes 200-6000 + median+3MAD adjustment	Threshold adjusted according to tissue-specific QC distribution; mitochondrial cutoff constrained by <=15%
+Kidney	380.0	3608.0	0.0	initial n_genes 200-6000 + median+3MAD adjustment	Threshold adjusted according to tissue-specific QC distribution; mitochondrial cutoff constrained by <=15%
+Liver	200.0	5688.5	0.0	initial n_genes 200-6000 + median+3MAD adjustment	Threshold adjusted according to tissue-specific QC distribution; mitochondrial cutoff constrained by <=15%
+Lung	469.0	2671.0	0.0	initial n_genes 200-6000 + median+3MAD adjustment	Threshold adjusted according to tissue-specific QC distribution; mitochondrial cutoff constrained by <=15%

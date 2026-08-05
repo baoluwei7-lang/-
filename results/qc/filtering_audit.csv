@@ -1,0 +1,5 @@
+step,cells_before,cells_after,removed
+raw,40613,40613,0
+n_genes_200_6000,40613,40505,108
+median_3MAD,40505,35028,5477
+mitochondrial_filter,35028,35028,0
